@@ -1,4 +1,4 @@
-<h2>Survey Builder</h2>
+<h1>Survey Builder</h1>
 <p>Final project for Engineering Web-Based Systems.</p>
 <p>This project is a survey system which allows users to create surveys, respond to others' surveys, and view others' responses to their own surveys.
 I used phpMyAdmin to host the mySQL database.</p>
