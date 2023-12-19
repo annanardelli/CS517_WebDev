@@ -7,11 +7,11 @@ I used phpMyAdmin to host the mySQL database.</p>
 <img width="586" alt="image" src="https://github.com/annanardelli/CS517_WebDev/assets/60702479/0f535575-4029-44a6-af02-43a2653aaeae">
 
 <h3>Login Page Screenshot</h3>
-<img width="366" alt="image" src="https://github.com/annanardelli/CS517_WebDev/assets/60702479/6ed3b089-81d9-4c98-95f5-f1448a3d6ed2">
+<img alt="image" src="https://github.com/annanardelli/CS517_WebDev/assets/60702479/6ed3b089-81d9-4c98-95f5-f1448a3d6ed2">
 <p>This image displays the login page and the error message produced by JavaScript when the fields aren't input properly.</p>
 
 <h3>Home Page Screenshot</h3>
-<img width="329" alt="image" src="https://github.com/annanardelli/CS517_WebDev/assets/60702479/561bc880-ad85-4351-9eb1-0095b2a5ba62">
+<img alt="image" src="https://github.com/annanardelli/CS517_WebDev/assets/60702479/561bc880-ad85-4351-9eb1-0095b2a5ba62">
 <p>This image shows the home page, featuring the navigation bar at the top with the options to use each of the application's functions.</p>
 
 <h3>Survey Screenshot</h3>
